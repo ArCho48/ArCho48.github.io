@@ -4,20 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-### 2017
+### 2019
 
-1. __Gaurav Gupta__, Swati, Monika Sharma and Lovekesh Vig, _"Information Extraction from Hand-marked Industrial Inspection Sheets"_, in CBDAR, [ICDAR-2017](http://u-pat.org/ICDAR2017/index.php). [`Paper`](https://gaurav16gupta.github.io/papers/cbdar.pdf)
-
-2. Swati, __Gaurav Gupta__, Mohit Yadav, Monika Sharma and Lovekesh Vig, _"Siamese Networks for chromosomes classification"_, in BIC, [ICCV-2017](http://iccv2017.thecvf.com/). [`Paper`](https://gaurav16gupta.github.io/papers/Siamese%20Networks%20For%20Chromosome%20Classification_BIC_ICCV2017.pdf)
-
-3. Shreyas Mohatta, Ramkrishna Perla, __Gaurav Gupta__, Ehtesham Hassan and Ramya Hebbalaguppe, _"Robust Hand Gestural Interaction for Smartphone based AR/VR Application"_, in IEEE [WACV-2017](http://pamitc.org/wacv2017/). [`Paper`](https://gaurav16gupta.github.io/papers/HandGesture.pdf)
-
-### 2016
-
-4. __Gaurav Gupta__, Nishant Kejriwal, Prasun Pallav, Ehtesham Hassan, Swagat Kumar and Ramya Hebbalaguppe, _"Indoor Localisation and Navigation on Augmented Reality Devices"_, in IEEE [ISMAR-2016](http://www.ismar.vgtc.org/). [`Paper`](https://gaurav16gupta.github.io/papers/IndoorLocalisation.pdf)
-
-5. Ramkrishna Perla\*, Ramya Hebbalaguppe\*, __Gaurav Gupta__\*, Gitika Sharma, Ehtesham Hassan, Monika Sharma, Lovekesh Vig and Gautam Shroff, _"An AR Inspection Framework: Feasibility Study with Multiple AR Devices"_, in IEEE [ISMAR-2016](http://www.ismar.vgtc.org/). [`Paper`](https://gaurav16gupta.github.io/papers/ARInspection.pdf)
+1. Monika Sharma, Shikha Gupta, __Arindam Chowdhury__, Lovekesh Vig, _"ChartNet: Visual Reasoning over Statistical Charts using MAC-Networks"_, in [IJCNN-2019](https://www.ijcnn.org/). [`Paper`](https://ieeexplore.ieee.org/document/8852427)
 
 
+### 2018
 
-\* Indicates equal authorship. 
+2. __Arindam Chowdhury__, Lovekesh Vig, _"An Efficient End-to-End Neural Model for Handwritten Text Recognition"_, in [BMVC-2018](http://bmvc2018.org//). [`Paper`](http://bmvc2018.org/contents/papers/0606.pdf)
+
+3. Rohit Rahul, __Arindam Chowdhury__, Animesh, Samarth Mittal, Lovekesh Vig, _"Reading Industrial Inspection Sheets by Inferring Visual Relations"_, in [IWRR, ACCV-2018](https://www.springer.com/gp/book/9783030208691). [`Paper`](https://link.springer.com/chapter/10.1007/978-3-030-21074-8_13)
+
