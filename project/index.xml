@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Arindam Chowdhury</title>
+    <link>/project/</link>
+    <description>Recent content in Publications on Arindam Chowdhury</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reasoning over Graph Images</title>
+      <link>/project/dvqa/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/dvqa/</guid>
+      <description>Visual Understanding of graph images by automatic answering of reasoning-based questions</description>
+    </item>
+    
+    <item>
+      <title>Digitization of Industrial Inspection</title>
+      <link>/project/mhps/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/mhps/</guid>
+      <description>Developed a novel framework for automatic digitization of industrial inspection sheets.</description>
+    </item>
+    
+    <item>
+      <title> Handwritten Text Recognition</title>
+      <link>/project/htr/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/htr/</guid>
+      <description>Developed an end-to-end connectionist model for handwritten text recognition from document images.</description>
+    </item>
+    
+    <item>
+      <title>Deep Face Recognition</title>
+      <link>/project/fr/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/project/fr/</guid>
+      <description>Developed a face recognition/verification system for faces in wild.</description>
+    </item>
+    
+    <item>
+      <title>Deep Reader</title>
+      <link>/project/dr/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/project/dr/</guid>
+      <description>Contributed to the development of a deep learning based platform for image information retrieval.</description>
+    </item>
+    
+    <item>
+      <title>Incremental Clustering</title>
+      <link>/project/ic/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/project/ic/</guid>
+      <description>Developed a method for hierarchical clustering of streaming data.</description>
+    </item>
+    
+  </channel>
+</rss>
