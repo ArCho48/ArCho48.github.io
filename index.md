@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-I am a second-year PhD student in the department of [Electrical & Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Dr. Santiago Segarra](http://segarra.rice.edu/). My current interests lie in machine learning and it's applications in network sciences.
+I am a second-year PhD student in the department of [Electrical & Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Dr. Santiago Segarra](http://segarra.rice.edu/). My current interests lie in machine learning and it's applications in network analytics.
 
 Prior to this, I was a researcher at [Innovation Labs](https://www.tcs.com/research-and-innovation), [Tata Consultancy Services](https://www.tcs.com/) where I was a part of the Deep Learning & Artificial Intelligence group headed by [Dr. Lovekesh Vig](https://in.linkedin.com/in/lovekesh-vig-5ba6ba2). 
 
