@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+## 2020 - Present
+
 ## [Molecular Graph Generation](/projects//MolecularGraphs.md)
 The aim of this project was to develop an end-to-end model for handwritten text recognition from scanned documents. The main components of the model are -
 A convolutional feature extractor that generates a sequence of visual features from an image of a handwritten line of text.
@@ -15,6 +17,7 @@ The aim of this project was to develop an end-to-end model for handwritten text 
 A convolutional feature extractor that generates a sequence of visual features from an image of a handwritten line of text.
 A Sequence-to-Sequence model that consists of a bidirectional LSTM based encoder and a decoder with attention to generate a set of characters present in the image.[Read More](/projects//InformationExtraction.md)
 
+## 2017 - 2019
 
 ## [Textual Summarization of Statistical Graphs](/projects//StatisticalGraphs.md)
 The aim of this project was to develop an end-to-end model for handwritten text recognition from scanned documents. The main components of the model are -
