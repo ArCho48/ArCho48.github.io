@@ -15,5 +15,5 @@ permalink: /projects/
 
 ## 2017 - 2019
 
-## [Document Image Analysis]()
-Automatic generation of textual summary of graphical data through reasoning-based question-answering. End-to-end neural model for offline recognition of handwritten text. Automatic digitization of industrial inspection sheets.
+## [Document Image Analysis](/projects//powAlloc.md)
+Automatic generation of textual summary of graphical data through reasoning-based question-answering. End-to-end neural model for offline recognition of handwritten text. Automatic digitization of industrial inspection sheets.[Read More](/projects//dia.md)
