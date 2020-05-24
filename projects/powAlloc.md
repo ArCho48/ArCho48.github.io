@@ -1,14 +1,16 @@
 ---
 layout: post
-title: An AR Inspection Framework: Feasibility Study with Multiple AR Devices
-permalink: /projects/ARInspection
+title: Optimal Power Allocation in Wireless Networks
+permalink: /projects/powAlloc
 ---
 
-<p>
-<img src="/images/Illustration-of-prioritisation-of-checklist-using-RCNN.png" style="width:640px;height:480px;" align="center">
-</p>
+COMING SOON ...
 
-1. An AR based re-configurable framework for inspection that can be utilized in cross-domain applications such as maintenance and repair assistance in industrial inspection, health sector to record vitals, and automotive/avionics domain inspection. The inspection check-list can be prioritized by detecting the parts viewed in inspector’s field using deep learning principles.
+<!--<p>
+<img src="/images/Illustration-of-prioritisation-of-checklist-using-RCNN.png" style="width:640px;height:480px;" align="center">
+</p>-->
+
+<!--1. An AR based re-configurable framework for inspection that can be utilized in cross-domain applications such as maintenance and repair assistance in industrial inspection, health sector to record vitals, and automotive/avionics domain inspection. The inspection check-list can be prioritized by detecting the parts viewed in inspector’s field using deep learning principles.
 
 2. The back-end of the framework is easily configurable for different applications where instructions and assistance manuals can be directly imported and visually integrated with inspection type.
 
@@ -20,4 +22,4 @@ Block diagram showing the various components of the proposed inspection framewor
 <img src="/images/Architecture-diagram-version-2.png" style="width:640px;height:480px;" align="center">
 </p>
 
-The work is published at [ISMAR-2016](http://www.ismar.vgtc.org/). For more information refer [Paper](https://gaurav16gupta.github.io/papers/ARInspection.pdf).
+The work is published at [ISMAR-2016](http://www.ismar.vgtc.org/). For more information refer [Paper](https://gaurav16gupta.github.io/papers/ARInspection.pdf).-->
