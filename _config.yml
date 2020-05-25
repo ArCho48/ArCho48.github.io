@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Arindam Chowdhury
+name: Tharun Medini
 
 # Short bio or description (displayed in the header)
 description: PhD student at Rice University
@@ -18,13 +18,12 @@ avatar: /images/profile.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: arindam.chowdhury@rice.edu
-  facebook: 
+  email: tharun.medini@rice.edu
+  facebook: tharunkumar.reddy.9
   flickr:
-  scholar: citations?user=zAu1_ZIAAAAJ&hl=en
-  github: archo48
-  #instagram: gaurav16gupta/
-  linkedin: arindam-chowdhury-00843418b/
+  github: tharun24
+  instagram: 
+  linkedin: tharunmedini/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -42,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://archo48.github.io/
+url: https://tharunmedini.com/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
