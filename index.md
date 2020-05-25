@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-I am a first-year PhD student in the department of [Electrical & Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Dr. Santiago Segarra](http://segarra.rice.edu/). My current interests lie in Signal Procesing, Machine Learning and their applications in Network Analytics.
+I am a first-year PhD student in the department of [Electrical & Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Dr. Santiago Segarra](http://segarra.rice.edu/). My current interests lie in Signal Procesing, Machine Learning and their applications in Network Science.
 
 Prior to this, I was a researcher at [Innovation Labs](https://www.tcs.com/research-and-innovation), [Tata Consultancy Services](https://www.tcs.com/) in the Deep Learning & Artificial Intelligence group headed by [Dr. Lovekesh Vig](https://in.linkedin.com/in/lovekesh-vig-5ba6ba2). I obtained a Master's degree in [Signal Processing](https://www.iitg.ac.in/eee/mtechSP_course_struct.html) from the department of [EEE](https://www.iitg.ac.in/eee/) at [IIT Guwahati](http://www.iitg.ac.in/) under the supervision of [Dr. Prithwijit Guha](https://www.iitg.ac.in/eee/pguha.html). My Bachelor's degree was in [Electronics & Communication](https://www.nitdgp.ac.in/department/EC) from [NIT Durgapur](https://www.nitdgp.ac.in/).
 
