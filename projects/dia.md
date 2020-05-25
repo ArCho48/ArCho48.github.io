@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Optimal Power Allocation in Wireless Networks
-permalink: /projects/powAlloc
+title: Document Image Analysis
+permalink: /projects/dia
 ---
 
 COMING SOON ...
