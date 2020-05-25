@@ -1,9 +1,5 @@
-#
-# This file contains configuration flags to customize your site
-#
-
 # Name of your site (displayed in the header)
-name: Tharun Medini
+name: Arindam Chowdhury
 
 # Short bio or description (displayed in the header)
 description: PhD student at Rice University
@@ -18,12 +14,13 @@ avatar: /images/profile.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: tharun.medini@rice.edu
-  facebook: tharunkumar.reddy.9
+  email: arindam.chowdhury@rice.edu
+  facebook: 
   flickr:
-  github: tharun24
-  instagram: 
-  linkedin: tharunmedini/
+  scholar: citations?user=zAu1_ZIAAAAJ&hl=en
+  github: archo48
+  #instagram: gaurav16gupta/
+  linkedin: arindam-chowdhury-00843418b/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +38,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://tharunmedini.com/
+url: https://archo48.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
