@@ -1,0 +1,327 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 
+%% Arindam Chowdhury's resume
+%%   - taken from Yisong Yue's webpage
+%%   - based off work by Michael DeCorte 
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%
+%% The following code sets up the document formatting
+%%
+
+%this assumes that res_yy.sty is in some path
+\documentstyle[hyperref, margin, line]{res_yy}
+
+\hypersetup{backref,pdfpagemode=Full,colorlinks=true,backref}
+
+\addtolength{\oddsidemargin}{-0.45in}
+%\addtolength{\voffset}{0.10in}
+\addtolength{\textwidth}{1.00in} %\addtolength{\textheight}{1.50in}
+
+\renewcommand{\namefont}{\LARGE\emph}
+
+
+
+%%
+%% The following code defines some macros for terms which have raised font
+%% (ie 4\fourth would result 4th with the 'th' raised (superscripted)
+%%
+
+\def\Cplusplus{{\rm C\raise.5ex\hbox{\small ++}}}
+\def\CSharp{{\rm C\raise.5ex\hbox{\small \#}}}
+% 'st' 'nd' 'rd' 'th' superscripts for numbers
+\def\first{{\raise.5ex\hbox{\small st}}}
+\def\second{{\raise.5ex\hbox{\small nd}}}
+\def\third{{\raise.5ex\hbox{\small rd}}}
+\def\fourth{{\raise.5ex\hbox{\small th}}}
+
+
+
+%%
+%% starting the actual document
+%%
+
+\begin{document}
+
+%the name in big fonts at the top of resume
+%this is left aligned
+\name{Arindam Chowdhury}
+
+%this is right aligned
+\address{
+website: \url{https://archo48.github.io/}\ \ \ \ \ 
+email: ac131@rice.edu  
+}
+
+\begin{resume}
+
+
+
+%%
+%% This section of code is inelegant, but I'm too lazy to fix it
+%%
+
+\section{\textsc{Research Interest}}
+My research interests lie primarily in signal procesing, machine learning and their applications in network science.
+
+\section{\textsc{Education}}
+\textbf{Ph.D in Data Science} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 2019 - Present  \\
+Rice University \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \\
+\textit{CPI: 3.95/4.0}
+
+\textbf{M.Tech in Signal Processing} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 2015 - 2017 \\
+Indian Institute of Technology (IIT) \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \\\
+\textit{CPI: 9.32/10.0}
+
+\textbf{B.Tech in Electronics and Communications} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 2010 - 2014 \\ 
+National Institute of Technology (NIT)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \\ 
+\textit{CPI: 8.70/10.0} 
+
+%%
+%% the meat of the resume starts now
+%%
+
+\begin{formatb}
+  \employer{l}\title{r}\\
+  \location{l}\dates{r}\\ 
+  
+  \body\\
+\end{formatb}
+
+\section{\textsc{Work Experience}}
+
+\employer{\textbf{TCS Innovation Labs}}
+\title{Researcher}
+\location{Gurgaon, Haryana, India}
+\dates{2017 - 2019}
+\begin{position}
+Information extraction from scanned images of documents. 
+\end{position}
+
+%\employer{\textbf{TCS Innovation Labs}}
+%\title{Research Intern}
+%\location{Gurgaon, Haryana, India}
+%\dates{Summer 2016}
+%\begin{position}
+%Developed CNN based face recognition \& verification algorithms.
+%\end{position}
+
+
+%%
+%% We use the same formatting for projects as for work experience
+%% Shown below is the formatting used previously
+%%
+%%  \begin{formatb}
+%%    \employer{l}\title{r}\\
+%%    \location{l}\dates{r}\\
+%%    \body\\
+%%  \end{formatb}
+%%
+%% 
+%%  Note that \location is now being used for non-location information
+%%
+
+
+\begin{formatb}
+  \employer{l}\dates{r}\\
+  \body\\
+\end{formatb}
+
+\section{\textsc{Projects}}
+
+\employer{\textbf{Optimal Power Allocation in Wireless Networks}}
+\dates{Spring 2020 - Present}
+\begin{position}
+Combining a graph convolutional network (GCN) based learning system with an iterative algorithm (WMMSE) that incorporates domain structure to develop a fast, efficient and effective framework for power allocation in wireless networks.
+\end{position}
+
+\employer{\textbf{Efficient Training of Graph Convolutional Networks}}
+\dates{Fall 2020 - Present}
+\begin{position}
+Developing a distributed framework for efficient training of graph convolutional networks (GCN) through partitioning of the hidden layers with a provision for graph clustering to facilitate mini-batch SGD in case of large graphs.
+\end{position}
+
+
+%\employer{\textbf{Molecular Graph Generation}}
+%\dates{Summer 2020 - Present}
+%\begin{position}
+% 
+%\end{position}
+
+\employer{\textbf{Document Image Analysis}}
+\dates{2017 - 2019}
+\begin{position}
+Automatic generation of textual summary of graphical data through reasoning-based question-answering. End-to-end neural model for offline recognition of handwritten text. Automatic digitization of industrial inspection sheets.
+ 
+\end{position}
+
+
+%\newpage
+\section{\textsc{Publications}}
+
+\textit{Unfolding wmmse using graph neural networks for efficient power allocation}\\
+Under review at IEEE Transactions on Wireless Communications (\textbf{TWC})\\
+\textbf{A. Chowdhury}, G. Verma, C. Rao, A. Swami and S. Segarra\\
+\url{https://arxiv.org/pdf/2009.10812}
+
+\textit{GIST: Distributed Training for Large-Scale Graph Convolutional Networks}\\
+Under review at International Conference on Machine Learning (\textbf{ICML}) 2021\\
+C. R. Wolfe, J. Yang, \textbf{A. Chowdhury}, C. Dun, A. Bayer, S. Segarra and A. Kyrillidis
+
+\textit{Efficient power allocation using graph neural networks and deep algorithm unfolding}\\
+Accepted at IEEE International Conference on Acoustics, Speech and Signal Processing (\textbf{ICASSP}) 2021\\ 
+\textbf{A. Chowdhury}, G. Verma, C. Rao, A. Swami and S. Segarra\\  \url{https://arxiv.org/pdf/2012.02250},
+
+\textit{ChartNet: Visual Reasoning over Statistical Charts using MAC-Networks}\\
+Published at International Joint Conference on Neural Networks (\textbf{IJCNN}) 2019\\
+M. Sharma, S. Gupta, \textbf{A. Chowdhury} and L. Vig\\
+\url{https://ieeexplore.ieee.org/document/8852427}
+
+\textit{An Efficient End-to-End Neural Model for Handwritten Text Recognition}\\
+Published at British Machine Vision Conference (\textbf{BMVC}) 2018\\
+\textbf{A. Chowdhury} and L. Vig\\
+\url{http://bmvc2018.org/contents/papers/0606.pdf}
+
+\textit{Reading Industrial Inspection Sheets by Inferring Visual Relations}\\
+Published at IWRR Asian Conference on Computer Vision (\textbf{ACCV}) 2018\\
+R. Rahul, \textbf{A. Chowdhury}, Animesh, S. Mittal and L. Vig\\
+\url{https://arxiv.org/pdf/1812.07104.pdf}
+
+%\textit{Deep Reader: End-to-end framework for relevant text extraction from real image documents with Natural Language Interface}\\
+%Accepted at IWRR Asian Conference on Computer Vision (\textbf{ACCV}) 2018\\
+%Vishwa D., R. Rahul, G. Sehgal, Swati, \textbf{A. Chowdhury}, M. Sharma, L. Vig, G. Shroff and A. Srinivasan\\
+%\url{https://arxiv.org/pdf/1812.04377.pdf}
+
+%
+%\section{\textsc{Patents}}
+%
+%\textbf{A. Chowdhury} and L. Vig.\\ \textit{Systems and Methods for End-to-End Handwritten Text Recognition using Neural Networks}. Indian Patent Application 201821026934, filed July 2018. Patent pending.
+%
+%R. Rahul, \textbf{A. Chowdhury}, Animesh, S. Mittal and L. Vig.\\ \textit{Digitization of Industrial Inspection Sheets by
+%Inferring Visual Relations}.\\ Indian Patent Application 201821044939, filed November 2018. Patent pending.
+%
+%Vishw, Rohit, Gunjan, \textbf{A. Chowdhury},  Swati, Monika, L. Vig, G. Shroff, and A. Srinivasan. \textit{Method and System for Information Extraction from Document Images using Conversational Interface and Database Querying}.\\ Indian Patent Application 201821045427, filed November 2018. Patent pending.
+
+%\newpage
+\section{\textsc{Course Work}}
+\begin{tabular}{llll}
+Statistical Signal Processing & \ \ &  Network Science and Analytics\\
+Optimization: Algorithms, Complexity \& Approximation  & \ \ & Random Processes \\
+Linear Algebra \& Optimization   & \ \ & Multi-Agent Dynamic Systems \\  
+Pattern Recognition \& Machine Learning   & \ \ & Information Theory \\
+Signal Processing Algorithms \& Architectures   & \ \ & Computer Vision \\
+\end{tabular}
+
+\section{\textsc{Technical Skills}}
+
+\emph{Programming Languages}: C, \Cplusplus, Python\\
+\emph{Numerical Computing Tool}:  MATLAB, Octave\\
+\emph{Libraries}: dlib, NetworkX, Tensorflow, Keras, PyTorch\\
+\emph{Cloud Computing}: Amazon EC2, Google Colab\\
+\emph{Operating Systems}: Ubuntu 18.04 LTS, Windows
+     
+\section{\textsc{Academic Activities}}
+
+\begin{formatb}
+  \employer{l}\dates{r}\\
+  \body\\
+\end{formatb}
+
+%\employer{\textbf{ACM CODS-COMAD}}
+%\dates{Spring 2018}
+%\begin{position}
+%Participated in ACM India Joint International Conference on Data Science and Management of Data, 2018 edition held in Goa.
+%\end{position}
+%\employer{\textbf{ACCV}}
+%\dates{December 2018}
+%\begin{position}
+%Presented orally in IWRR Asian Conference on Computer Vision, 2018 edition held in Perth, Australia. 
+%\end{position}
+%
+%\employer{\textbf{BMVC}}
+%\dates{October 2018}
+%\begin{position}
+%Presented poster in British Machine Vision Conference, 2018 edition held in Newcastle, England. 
+%\end{position}
+\employer{\textbf{Conference Reviewer}}
+\dates{Spring 2020 - Present}
+\begin{position}
+IEEE ISIT 2021, IEEE ICASSP 2021, IEEE ASILOMAR 2020, IEEE VTC 2020  
+\end{position}
+
+\employer{\textbf{Rice University Teaching Assistant}}
+\dates{Spring 2021}
+\begin{position}
+Grader for a course on Signals, Systems, and Transforms
+\end{position}
+
+\employer{\textbf{Rice University Teaching Assistant}}
+\dates{Fall 2020}
+\begin{position}
+Grader for a course on Network Science and Analytics
+\end{position}
+
+\employer{\textbf{Rice University Teaching Assistant}}
+\dates{Fall 2019}
+\begin{position}
+Grader for a course on Data and Dynamical Systems
+\end{position}
+
+
+%\employer{\textbf{IIT Guwahati Teaching Assistant}}
+%\dates{Fall 2016}
+%\begin{position}
+%Prepared \& graded assignments for a course on Digital Signal Processing.
+%\end{position}
+
+%\employer{\textbf{IIT Guwahati Teaching Assistant}}
+%\dates{Spring 2016 \& Spring 20117}
+%\begin{position}
+%Served as the instructor for Basic Electronics Laboratory course twice.
+%\end{position}
+
+%\employer{\textbf{ICVGIP}}
+%\dates{December 2016}
+%\begin{position}
+%Organized, volunteered and participated in Indian Conference on Computer Vision, Graphics \& Image Processing, 2016 edition held at IIT Guwahati. 
+%\end{position}
+%
+%\employer{\textbf{Deep Learning Summer School}}
+%\dates{Summer 2016}
+%\begin{position}
+%Participated in a 6-day Summer School On Deep Learning for Computer Vision organized by IIIT Hyderabad
+%\end{position}
+
+% \section{Referees}
+% \begin{itemize}
+% \item[1]\href{https://in.linkedin.com/in/lovekesh-vig-5ba6ba2}{\textbf{\underline{Dr. Lovekesh Vig}}} \\ \\
+% Senior Scientist, \\ 
+% TCS Innovation Labs, Gurgaon, India. \\
+% %Phone: +91-361-2582523 (O) \\
+% Email: lovekesh.vig@tcs.com
+%  \\
+% \item[2]\href{https://in.linkedin.com/in/gautam-shroff-066901}{\textbf{\underline{Dr. Gautam Shroff}}} \\ \\
+% Chief Scientist \& Head of Research,\\ 
+% TCS Innovation Labs, Gurgaon, India. \\
+% %Phone: +91-361-2582523 (O) \\
+% Email: gautam.shroff@tcs.com
+% \\ 
+%% \item[4] \href{https://www.iitg.ernet.in/eee/pguha.html}{\textbf{\underline{Dr. Prithwijit Guha}}} \\ \\
+%% Assistant Professor, EEE Department, \\
+%% IIT Guwahati, Guwahati-781039, \\
+%% Assam, India. \\
+%% Phone: +91-361-2583452 (O) \\
+%% Email: pguha@iitg.ernet.in
+%%  \\ \\
+% \item[3]\href{https://www.iitg.ernet.in/eee/mkb.html}{\textbf{\underline{Dr. Manas Kamal Bhuyan}}} \\ \\
+% Professor, EEE Department, \\
+% IIT Guwahati, Assam, India \\
+% %Phone: +91-361-2582523 (O) \\
+% Email: mkb@iitg.ernet.in
+% \end{itemize}
+
+\end{resume}
+\end{document}
