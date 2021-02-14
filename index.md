@@ -15,4 +15,5 @@ My Erdős number is 4, and (at least one) shortest path is given by [Paul Erdős
 </form>-->
 
 ### Recent Activities:
+* December 2019: Joined Segarra group
 * August 2019: Joined Rice University 
