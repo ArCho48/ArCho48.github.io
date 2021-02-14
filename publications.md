@@ -8,7 +8,7 @@ permalink: /publications/
 
 1. __Arindam Chowdhury__, Gunjan Verma, Chirag Rao, Ananthram Swami, and Santiago Segarra, _"Unfolding wmmse using graph neural networks for efficient power allocation"_, in [IEEE TWC](https://www.comsoc.org/publications/journals/ieee-twc) (Under Review). [`Paper`](https://arxiv.org/pdf/2009.10812)
 
-2. Cameron Wolfe, Jingkang Yang, __Arindam	Chowdhury__, Chen Dun, Artun Bayer, Santiago Segarra, and Anastasios Kyrillidis, _"GIST: Distributed Training for Large-Scale Graph Convolutional Networks"_, in [ICML-2021](https://icml.cc/) (Under Review).
+2. Cameron Wolfe, Jingkang Yang, __Arindam Chowdhury__, Chen Dun, Artun Bayer, Santiago Segarra, and Anastasios Kyrillidis, _"GIST: Distributed Training for Large-Scale Graph Convolutional Networks"_, in [ICML-2021](https://icml.cc/) (Under Review).
 
 3. __Arindam Chowdhury__, Gunjan Verma, Chirag Rao, Ananthram Swami, and Santiago Segarra, _"Efficient power allocation using graph neural networks and deep algorithm unfolding"_, in [IEEE ICASSP-2021](https://2021.ieeeicassp.org/default.asp). [`Paper`](https://arxiv.org/pdf/2012.02250) 
 
