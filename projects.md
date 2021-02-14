@@ -13,7 +13,7 @@ Synthesizing new molecules with desired properties is an important step towards 
 ## [Optimal Power Allocation in Wireless Networks](/projects//powAlloc.md)
 
 <!-- [Read More](/projects//powAlloc.md) -->
-## [Efficient Training of Graph Convolutional Networks](/projects//effGCN.md)
+## [Efficient Training of Graph Convolutional Networks](/projects//fastGCN.md)
 
 ## 2017 - 2019
 
