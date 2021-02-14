@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indoor Localisation and Navigation on Augmented Reality Devices
+title: Efficient Training of Graph Convolutional Networks
 permalink: /projects/fastGCN
 ---
 
