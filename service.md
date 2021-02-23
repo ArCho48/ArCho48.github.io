@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2021
 
-1. Cameron Wolfe, Jingkang Yang, __Arindam Chowdhury__, Chen Dun, Artun Bayer, Santiago Segarra, and Anastasios Kyrillidis, _"GIST: Distributed Training for Large-Scale Graph Convolutional Networks"_, in [ICML-2021](https://icml.cc/) (Under Review).
+1. Cameron Wolfe, Jingkang Yang, __Arindam Chowdhury__, Chen Dun, Artun Bayer, Santiago Segarra, and Anastasios Kyrillidis, _"GIST: Distributed Training for Large-Scale Graph Convolutional Networks"_, in [ICML-2021](https://icml.cc/) (Under Review). [`Paper`](https://arxiv.org/pdf/2102.10424)
 
 2. __Arindam Chowdhury__, Gunjan Verma, Chirag Rao, Ananthram Swami, and Santiago Segarra, _"Efficient power allocation using graph neural networks and deep algorithm unfolding"_, in [IEEE ICASSP-2021](https://2021.ieeeicassp.org/default.asp). [`Paper`](https://arxiv.org/pdf/2012.02250) 
 
