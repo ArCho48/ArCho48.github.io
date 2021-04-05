@@ -15,4 +15,4 @@ Developing a distributed framework for efficient training of graph convolutional
 ## 2017 - 2019
 
 ## [Document Image Analysis](/projects//powAlloc.md)
-Automatic generation of textual summary of graphical data through reasoning-based question-answering. End-to-end neural model for offline recognition of handwritten text. Automatic digitization of industrial inspection sheets.  
+Developed a reasoning-based neural model for information extraction from images of statistical graphs in a question-answering framework with a goal of automatic summarization for the visually impaired. Designed a connectionist architecture combining deep convolutional and sequence models for end-to-end recognition of offline handwritten text. Developed a novel framework for automatic digitization of inspection sheets that contain schematics of factory floor, handmarked by engineers. It intelligently combines various traditional image processing methods with an ensemble of deep neural networks to achieve the goal.
