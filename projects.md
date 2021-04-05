@@ -10,7 +10,7 @@ permalink: /projects/
 Combining a graph convolutional network (GCN) based learning system with an iterative algorithm (WMMSE) that incorporates domain structure to develop a fast, efficient and effective framework for power allocation in wireless networks.
 
 ## [Efficient Training of Graph Convolutional Networks](/projects//fastGCN.md)
-Developing a distributed framework for efficient training of graph convolutional networks (GCN) through partitioning of the hidden layers with a provision for graph clustering to facilitate mini-batch SGD in case of large graphs.
+Developed a distributed framework for efficient training of graph convolutional networks (GCN) through partitioning of the hidden layers with a provision for graph clustering to facilitate mini-batch SGD in case of large graphs.
 
 ## 2017 - 2019
 
