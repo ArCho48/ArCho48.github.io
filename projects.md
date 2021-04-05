@@ -6,8 +6,8 @@ permalink: /projects/
 
 ## 2020 - Present
 
-## [Optimal Power Allocation in Wireless Networks](/projects//powAlloc.md)
-Combining a graph convolutional network (GCN) based learning system with an iterative algorithm (WMMSE) that incorporates domain structure to develop a fast, efficient and effective framework for power allocation in wireless networks.
+## [GNN based Algorithm Unfolding](/projects//powAlloc.md)
+Algorithm unfolding refers to approximating an iterative optimization algorithm with embedded learning modules, commonly neural networks to achieve improvements on one or more evaluation metrics. This work combines a graph convolutional network (GCN) based learning system with an iterative algorithm (WMMSE) that leverages domain knowledge to develop a fast and efficient framework for power allocation in wireless networks. Present work focuses on improving robustness against adversarial attacks and developing more expressive connectionist architectures. 
 
 ## [Efficient Training of Graph Convolutional Networks](/projects//fastGCN.md)
 Developed a distributed framework for efficient training of graph convolutional networks (GCN) through partitioning of the hidden layers with a provision for graph clustering to facilitate mini-batch SGD in case of large graphs.
