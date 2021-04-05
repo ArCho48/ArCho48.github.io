@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimal Power Allocation in Wireless Networks
+title: GNN based Algorithm Unfolding
 permalink: /projects/powAlloc
 ---
 
