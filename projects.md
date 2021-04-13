@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## 2020 - Present
 
-## [GNN based Algorithm Unfolding](/projects//powAlloc.md)
+## [Model based Deep Learning](/projects//powAlloc.md)
 Algorithm unfolding refers to approximating an iterative optimization algorithm with embedded learning modules, commonly neural networks to achieve improvements on one or more evaluation metrics. This work combines a graph convolutional network (GCN) based learning system with an iterative algorithm (WMMSE) that leverages domain knowledge to develop a fast and efficient framework for power allocation in wireless networks. Present work focuses on improving robustness against adversarial attacks and developing more expressive connectionist architectures. 
 
 ## [Efficient Training of Graph Convolutional Networks](/projects//fastGCN.md)
