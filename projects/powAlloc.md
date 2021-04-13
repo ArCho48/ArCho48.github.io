@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GNN based Algorithm Unfolding
+title: Model based Deep Learning
 permalink: /projects/powAlloc
 ---
 
