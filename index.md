@@ -9,11 +9,13 @@ Prior to this, I was a researcher at [TCS Innovation Labs](https://www.tcs.com/r
 
 Here are my [Resume](https://archo48.github.io/ac_resume.pdf) and [Google Scholar](https://scholar.google.co.in/citations?user=zAu1_ZIAAAAJ&hl=en) profile.
 
-My Erdős number is 4, and the shortest path is given by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) — [Vance Faber](https://en.wikipedia.org/wiki/Vance_Faber) — [Gunnar Carlsson](https://en.wikipedia.org/wiki/Gunnar_Carlsson) — [Santiago Segarra](http://segarra.rice.edu/) — [Arindam Chowdhury](https://archo48.github.io/).
+<!--My Erdős number is 4, and the shortest path is given by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) — [Vance Faber](https://en.wikipedia.org/wiki/Vance_Faber) — [Gunnar Carlsson](https://en.wikipedia.org/wiki/Gunnar_Carlsson) — [Santiago Segarra](http://segarra.rice.edu/) — [Arindam Chowdhury](https://archo48.github.io/).
 <!--<form action="https://scholar.google.co.in/citations?user=OguKfJIAAAAJ&hl=en">
     <input type="submit" value="Google Scholar" width="100" height="20" />
 </form>-->
 
-### Recent Activities:
+### News:
+* March 2021: Our paper “Unfolding wmmse using graph neural networks for efficient power allocation” published in IEEE Trans. on Wireless Comm.
+* January 2021: Our paper “Efficient power allocation using graph neural networks and deep algorithm unfolding” accepted at ICASSP-2021.
 * December 2019: Joined Segarra group
-* August 2019: Joined Rice University 
+* August 2019: Joined Rice University
