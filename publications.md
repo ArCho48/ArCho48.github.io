@@ -12,7 +12,7 @@ permalink: /publications/
 
 ### 2020
 
-3. __Arindam Chowdhury__, Gunjan Verma, Chirag Rao, Ananthram Swami, and Santiago Segarra, _"Unfolding wmmse using graph neural networks for efficient power allocation"_, in [IEEE Trans. on Wireless Comm](https://www.comsoc.org/publications/journals/ieee-twc). [`Paper`](https://arxiv.org/pdf/2009.10812)
+3. __Arindam Chowdhury__, Gunjan Verma, Chirag Rao, Ananthram Swami, and Santiago Segarra, _"Unfolding wmmse using graph neural networks for efficient power allocation"_, in [IEEE Trans. on Wireless Comm](https://ieeexplore.ieee.org/abstract/document/9403959). [`Paper`](https://arxiv.org/pdf/2009.10812)
 
 ### 2019
 
