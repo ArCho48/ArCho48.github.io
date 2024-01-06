@@ -4,7 +4,7 @@ title: Real-time user fraud detection
 description: Anomaly detection on large-scale heterogeneous temporal graphs
 img:
 importance: 6
-category: Amazon
+category: Amazon Internship
 ---
 
 ## Anomaly detection on large-scale temporal graphs

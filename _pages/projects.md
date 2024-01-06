@@ -5,7 +5,7 @@ title: projects
 description: under construction
 nav: true
 nav_order: 3
-display_categories: [Rice University, Amazon, TCS Research]
+display_categories: [Rice University, Amazon Internship, TCS Research]
 horizontal: false
 ---
 
