@@ -16,7 +16,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+# social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD student in the department of [Electrical and Computer Engineering](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/), advised by [Santiago Segarra](https://segarra.rice.edu/).
