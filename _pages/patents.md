@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/
-title: patents
+title: Patents
 # description: an up-to-date list is also available on Google Scholar.
 nav: true
 nav_order: 5
